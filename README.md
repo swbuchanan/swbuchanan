@@ -22,4 +22,4 @@ Recent work includes:
 
 I'm particularly interested in **quantitative research, derivatives, risk modelling, financial modelling, machine learning, data science, and model validation**.
 
-Outside research, you'll usually find me playing poker or chess, running, learning Chinese, or experimenting with mathematical and computational side projects.
+Outside research, you'll usually find me playing poker or chess, running or lifting, learning Chinese, or experimenting with mathematical and computational side projects.
