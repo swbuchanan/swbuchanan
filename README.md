@@ -1,4 +1,4 @@
-### Hi, I'm Steven 👋
+### About Me!
 
 Please read my generic LLM-generated description of myself below.
 It may be sickening to look at, but the information is accurate and I'm currently looking for jobs for after I finish my PhD (early next year or late this year), so I'm keeping it up for now.
