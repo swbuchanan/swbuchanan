@@ -18,7 +18,7 @@ Recent work includes:
 * 🔢 Research across **geometric analysis, probability, asymptotic analysis, differential equations, optimisation, and analytic number theory**.
 * 📝 Published undergraduate research in *The American Mathematical Monthly*.
 
-**Tools:** Python · NumPy · Pandas · SciPy · PyTorch · Matplotlib · SQL · Git · Linux · TypeScript · LaTeX
+**Look! Buzzwords:** Python · NumPy · Pandas · SciPy · PyTorch · Matplotlib · SQL · Git · Linux · TypeScript · LaTeX · Mathematics · Thinking · Drinking
 
 I'm particularly interested in **quantitative research, derivatives, risk modelling, financial modelling, machine learning, data science, and model validation**.
 
